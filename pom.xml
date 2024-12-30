@@ -4,7 +4,7 @@
 <artifactId>edurekaApp</artifactId>
 <packaging>war</packaging>
 <version>1.5</version>
-<name>edurekaApp Maven Webapp</name>
+<name>edurekaApp</name>
 <url>http://maven.apache.org</url>
 <dependencies>
 <dependency>
